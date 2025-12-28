@@ -4,7 +4,7 @@ import Hero from './components/Hero'
 import HowItWorks from './components/HowItWorks'
 import Features from './components/Features'
 import EncryptDecryptPanel from './components/EncryptDecryptPanel'
-import FAQSection from './components/Faq'
+import FAQ from './components/Faq'
 import Testimonials from './components/Testimonials'
 import Pricing from './components/Pricing'
 import Footer from './components/Footer'
@@ -19,7 +19,7 @@ const App = () => {
       <HowItWorks/>
       <Features/>
       <EncryptDecryptPanel/>
-      <FAQSection/>
+      <FAQ/>
       <Testimonials/>
       <Pricing/>
       <ContactForm/>
